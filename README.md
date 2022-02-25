@@ -126,4 +126,10 @@ dbo.DBAChecks_CHECKDB
 
 Produces HTML for the “DBCC CHECKDB” section of the report
 
+![Screenshot 2022-02-26 002019](https://user-images.githubusercontent.com/34750437/155796972-479946de-5463-43ce-8476-307df2a21852.JPG)
+![Screenshot 2022-02-26 002035](https://user-images.githubusercontent.com/34750437/155796997-4ba351fe-c198-43bd-968f-712141701509.JPG)
+![Screenshot 2022-02-26 002051](https://user-images.githubusercontent.com/34750437/155797033-dbac15d7-8629-4de4-8f7f-1bb2aee6fab4.JPG)
+![Screenshot 2022-02-26 002105](https://user-images.githubusercontent.com/34750437/155797098-6854a9a9-5127-4476-b532-a19736fd738c.JPG)
+![Screenshot 2022-02-26 002115](https://user-images.githubusercontent.com/34750437/155797145-d53e0642-47db-4dd7-a298-1acce7b7760b.JPG)
+![Screenshot 2022-02-26 002130](https://user-images.githubusercontent.com/34750437/155797169-2ac42943-edd2-4724-9b1e-68c6caa8b5d0.JPG)
 

@@ -5,7 +5,8 @@ exec dbo.DBAChecks @recipients='rauf.asadov@outlook.com'
 
 The code below shows a call to the DBAChecks stored procedure with all parameters specified:
 
-EXEC dbo.DBAChecks @AgentJobsNumDays=3,
+EXEC dbo.DBAChecks 
+@AgentJobsNumDays=3,
 @FileStatsIncludedDatabases=NULL,
 @FileStatsExcludedDatabases=NULL,
 @FileStatsPctUsedWarning=90,
@@ -15,7 +16,6 @@ EXEC dbo.DBAChecks @AgentJobsNumDays=3,
 @TranWarningThresholdHours=4,
 @FreeDiskSpacePercentWarningThreshold=15,
 @FreeDiskSpacePercentCriticalThreshold=10,
-
 @DBCCCriticalDays = 1,
 @UptimeCritical=1440 ,
 @UptimeWarning=2880,

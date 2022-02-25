@@ -89,10 +89,10 @@ The mail profile used to send the email.  NULL = default profile.
 
 The number of days
 
-Database Code
-Name
 
-Info
+
+
+Database Code
 
 dbo.DBAChecks
 
@@ -125,3 +125,5 @@ Produces HTML for the "Agent Job Stats" section of the report
 dbo.DBAChecks_CHECKDB
 
 Produces HTML for the “DBCC CHECKDB” section of the report
+
+

@@ -20,7 +20,7 @@ EXEC dbo.DBAChecks @AgentJobsNumDays=3,
 @UptimeCritical=1440 ,
 @UptimeWarning=2880,
 @ErrorLogDays=3,
-@Recipients='dummyemail@wisesoft.co.uk',
+@Recipients='rauf.asadov@outlook.com',
 @MailProfile=NULL
 
 A full explanation of these parameters is available here:
